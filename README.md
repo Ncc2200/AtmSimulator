@@ -16,7 +16,7 @@ Thank you for checking out my simple Python ATM Simulator. This is a console bas
 - CS50 > SQL
 
 ## How to Use
-Before opening the application, ensure you have the Python packages noted above installed. To begin, open (ATM.py) and login with one of the default accounts and pin numbers. 
+Before opening the application, ensure you have the Python packages noted above installed. To begin, open (atm.py) and login with one of the default accounts and pin numbers. 
 
 ## Stack Used: 
 - Python
